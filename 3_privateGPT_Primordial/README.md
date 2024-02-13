@@ -7,7 +7,7 @@ Double click on the created shortcut.
 Run the following:
 - conda create -n LocalAI python=3.11
 - conda activate LocalAI
-- cd /mnt/c/LocalAI/3_privateGPT/
+- cd /mnt/c/LocalAI/3_privateGPT_Primordial/
 - pip install -r prerequisites.dat
 - mkdir source_documents
 - cp ./../txt/*.txt ./source_documents/
