@@ -38,7 +38,7 @@ git clone https://github.com/iansblog/LocalAI.git
 
 ### privateGPT (primordial  version)
 - Double click on the created shortcut. 
-- cd LocalAI/3_privateGPT_Primordial/
+- cd /mnt/c/LocalAI/3_privateGPT_Primordial/
 - conda activate LocalAI
 - python privateGPT.py
 - Who is Emmanuel Goldstein?
