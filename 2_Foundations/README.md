@@ -4,6 +4,7 @@ Setting up the different componenets that we will need, including.
 - Miniconda
 - Python 3.12
 - PIP
+- Poetry
 
 **Note** *If you are not running the MS ARM OS then look at the note at the bottom of this page to install the X86_64 rather then the ARM install.*
 
@@ -26,6 +27,8 @@ Run the following commands
 - sudo apt upgrade 
 - sudo apt install python3.12
 - sudo apt install python3-pip
+- curl -sSL https://install.python-poetry.org | python3 -
+- export PATH="/root/.local/bin:$PATH"
 
 Return back to the main [README](./../README.md)
 

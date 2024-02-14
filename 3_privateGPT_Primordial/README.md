@@ -1,4 +1,4 @@
-# privateGPT
+# privateGPT (primordial version)
 
 ----
 
@@ -16,7 +16,9 @@ Run the following:
     - What is newspeak? 
     - Who is Julia?
     - Please list 3 examples of newspeak.    
-
+- ctrl + C 
+- conda activate
+- exit
 ----
 
 ## Comments
