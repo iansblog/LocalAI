@@ -36,9 +36,9 @@
 
 ## Test Local AI witht he mistral LLM
   -  Double click on the created shortcut. 
-  	-  ollama run mistral --verbose
-  	-  Why is the sky blue?
-  	-  /bye 
+  - ollama run mistral --verbose
+  - Why is the sky blue?
+  - /bye 
 
 ## Pull other LLMs
   -  ollama pull tinyllama
