@@ -3,6 +3,7 @@ The process of getting open source AI projects up and running on the windows ARM
 
 While this is aimed at the MS Windows 11 desktop build of the "Windows Dev Kit 2023" we will be working mainly in the Windows Subsystem for Linux rather than Windows itself. This is due to issues with versions of Python and one of the foundational components Ollama does not have a Windows install at this time.  
 
+There is little original work in this repo it is more of a single place for lots of threads. 
 ----
 
 
