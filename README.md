@@ -59,9 +59,10 @@ git clone https://github.com/iansblog/LocalAI.git
 - cd /mnt/c/LocalAI/4_privateGPT2/privateGPT
 - conda activate LocalAI2
 - mkdir source_documents
-- Copy your documents into the /mnt/c/LocalAI/4_privateGPT2/privateGPT/source_documents directory. 
+- **Copy your documents into the** /mnt/c/LocalAI/4_privateGPT2/privateGPT/source_documents directory. 
 - python ./scripts/ingest_folder.py /mnt/c/LocalAI/4_privateGPT2/privateGPT/source_documents
 - poetry run python3.11 -m private_gpt
+- Open a web browser and go to http://127.0.0.1:8001 
 
 Supported documents include: 
 - .csv: CSV
